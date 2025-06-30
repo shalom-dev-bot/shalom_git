@@ -14,5 +14,11 @@ description of our homework
 '''
 git checkout -b the name of our branch
 
-abd a happy to see this now
-;;;
+add a happy to see this now
+
+'''
+'''
+i got up at 5 in the morning
+it's a pity that you can't come
+i will be here from monfays to thursdays
+'''
