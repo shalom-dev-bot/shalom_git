@@ -1,7 +1,7 @@
 ## git commands sommary
 
 '''
-1 git git init
+1 git  init
 start a new git repository 
 
 2 git clone 
