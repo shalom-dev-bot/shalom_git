@@ -1,3 +1,10 @@
+
+## UML sommary
+
+'''
+thet is the statement
+'''
+=======
 ## git commands sommary
 
 '''
@@ -57,3 +64,4 @@ temporarily save uncommitted changes
 '''
 
 
+>>>>>>> 7d251b49a261230e68e34ff05efdcf202e930337
